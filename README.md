@@ -1,7 +1,5 @@
 # RedditSent Models
 
-This project is created as a part of the Advanced Natural Language Processing (ANLP 2018) course at Universität Potsdam, Germany.   
-
 [Paper](https://tinyurl.com/y29jp7d6)
 
 
