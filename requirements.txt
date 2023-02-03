@@ -41,7 +41,7 @@ peewee==2.10.2
 plac==0.9.6
 preshed==2.0.1
 pyemd==0.5.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymongo==3.7.2
 pyparsing==2.3.1
 Pyphen==0.9.5
